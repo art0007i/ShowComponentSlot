@@ -32,7 +32,6 @@ namespace ShowComponentSlot
             {
                 if (allowRemove && !allowDuplicate)
                 {
-                    if (!__instance.World.IsUserspace() && !Settings.ReadValue<bool>("ArtiAdditions.EnablePatch", true)) return;
                     UIBuilder ui = new UIBuilder(__instance.Slot[0][0]);
                     ui.Style.MinHeight = 24f;
                     ui.Style.FlexibleWidth = 0f;
