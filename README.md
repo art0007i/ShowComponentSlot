@@ -1,3 +1,5 @@
+# This mod is no longer necessary as it was added in the 2024.7.24.1106 update
+
 # ShowComponentSlot
 
 A [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that allows you to open the slot that a component is attached to in component inspectors.
